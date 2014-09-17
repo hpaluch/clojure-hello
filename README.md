@@ -5,7 +5,13 @@ Extended with simple form
 
 ## Usage
 
-  lein run
+Get and install Oracle(R) JDK 1.7 from http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html
+
+Get and install leim from http://leiningen.org/
+
+Run this project:
+
+	lein run
 
 And point your browser to http://localhost:5000/
 
@@ -15,3 +21,4 @@ Copyright © 2014 FIXME
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
+
