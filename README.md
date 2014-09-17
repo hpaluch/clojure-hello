@@ -7,7 +7,7 @@ Extended with simple form
 
 Get and install Oracle(R) JDK 1.7 from http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html
 
-Get and install leim from http://leiningen.org/
+Get and install lein from http://leiningen.org/
 
 Run this project:
 
